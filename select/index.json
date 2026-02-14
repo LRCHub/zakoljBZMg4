@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "愛が見えない",
+  "base_artist": "ZARD",
+  "createdAt": "2026-02-14T13:06:18.666310Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛が見えない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/01_愛が見えない_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛が見えない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/02_愛が見えない_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛が見えない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/03_愛が見えない_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛が見えない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/04_愛が見えない_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛が見えない(オリジナル?カラオケ)",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/05_愛が見えない(オリジナル_カラオケ)_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛が見えない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/06_愛が見えない_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛が見えない",
+      "artist": "SARD UNDERGROUND",
+      "has_synced": true,
+      "path": "select/07_愛が見えない_SARD_UNDERGROUND.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛が見えない",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/pl_01_愛が見えない_ZARD.txt"
+    }
+  ]
+}
